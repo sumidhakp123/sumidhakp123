@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on **projects related to FrontEnd Development**
 
+-  🔭 I'm looking for **SDE, Web Developer Internship**
+
 - 💬 Ask me about **DSA,React.JS,Redux, JS,Java**
 
 - 📫 How to reach me **kumari.sumidha.123@gmail.com**    
