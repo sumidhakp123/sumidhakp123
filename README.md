@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sumidhakp" target="blank"><img src="https://img.shields.io/twitter/follow/sumidhakp?logo=twitter&style=for-the-badge" alt="sumidhakp" /></a> </p>
 
-- 🌱 I’m currently learning **DS Algo, FrontEnd Development**
+- 🌱 I’m currently learning **SQL, Python, Tableau, Data Visualization, Statistics**
 
-- 👯 I’m looking to collaborate on **projects related to FrontEnd Development**
+- 👯 I’m looking to collaborate on **projects related to Data Analytics**
 
--  🔭 I'm looking for **SDE, Web Developer Internship**
+-  🔭 I'm looking for **Data Analytics, Business Analytics Internship**
 
-- 💬 Ask me about **DSA,React.JS,Redux, JS,Java**
+- 💬 Ask me about **Data Analytics, SQL, Python, Data Visualization, Tableau, Statistics, PowerBI, MS Excel**
 
 - 📫 How to reach me **kumari.sumidha.123@gmail.com**    
 
