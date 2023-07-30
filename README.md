@@ -42,21 +42,11 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumidhakp" height="30" width="40" />
 </a>
   
-<a href="https://www.hackerrank.com/kumari_sumidha_1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kumari_sumidha_1" height="30" width="40" />
-</a>
   
 <a href="https://www.leetcode.com/sumidhakp" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"    alt="sumidhakp" height="30" width="40" />
   </a>
   
-<a href="https://www.hackerearth.com/@sumidha3" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"  alt="@sumidha3" height="30" width="40" />
-  </a>
-  
-<a href="https://auth.geeksforgeeks.org/user/sumidhakp123" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  alt="sumidhakp123" height="30" width="40" />
-  </a>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
