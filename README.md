@@ -66,16 +66,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  
-<a href="https://www.cprogramming.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a>
-  
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a> 
-  
- 
+
+ <p> MS Excel, SQL, Python, Numpy, Pandas, Power BI</p>
   
 </p>
 
@@ -88,6 +80,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumidhakp123&show_icons=true&locale=en" alt="sumidhakp123" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumidhakp123&" alt="sumidhakp123" />
-</p>
