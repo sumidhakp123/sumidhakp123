@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **projects related to Data Analytics**
 
--  🔭 I'm looking for **Data Analytics, Business Analytics Internship**
+-  🔭 I'm looking for **Data Analytics, Business Analytics, Product Analytics Full Time Role**
 
 - 💬 Ask me about **Data Analytics, SQL, Python, Data Visualization, Tableau, Statistics, PowerBI, MS Excel**
 
@@ -44,10 +44,6 @@
   
 <a href="https://www.hackerrank.com/kumari_sumidha_1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kumari_sumidha_1" height="30" width="40" />
-</a>
-  
-<a href="https://codeforces.com/profile/sumidha.kp" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sumidha.kp" height="30" width="40" />
 </a>
   
 <a href="https://www.leetcode.com/sumidhakp" target="blank">
