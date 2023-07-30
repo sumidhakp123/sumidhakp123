@@ -25,9 +25,7 @@
 
 - 💬 Ask me about **Data Analytics, SQL, Python, Data Visualization, Tableau, Statistics, PowerBI, MS Excel**
 
-- 📫 How to reach me **kumari.sumidha.123@gmail.com**    
-
-- 📫 My Mob No.  **+919931000254**    
+- 📫 How to reach me **kumari.sumidha.123@gmail.com**     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
