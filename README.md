@@ -20,11 +20,11 @@
 - 🌱 I’m currently learning **SQL, Python, Tableau, Data Visualization, Statistics**
 
 
-- 👯 I’m looking to collaborate on **projects related to Data Analytics**
+- 👯 I’m looking to collaborate on **projects related to Data Science**
 
--  🔭 I'm looking for **Data Analytics, Business Analytics, Product Analytics Full Time Role**
+-  🔭 I'm looking for **Data Science, Product Analytics Full Time Role**
 
-- 💬 Ask me about **Data Analytics, SQL, Python, Data Visualization, Tableau, Statistics, PowerBI, MS Excel**
+- 💬 Ask me about **Data Science, SQL, Python, Data Visualization,  Statistics, Power BI, MS Excel**
 
 - 📫 How to reach me **kumari.sumidha.123@gmail.com**     
 
