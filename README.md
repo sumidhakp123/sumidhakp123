@@ -17,7 +17,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **SQL, Python, Tableau, Data Visualization, Statistics**
+- 🌱 I’m skilled at **SQL, Python, Power BI, Excel, Data Visualization, Statistics**
 
 
 - 👯 I’m looking to collaborate on **projects related to Data Science**
