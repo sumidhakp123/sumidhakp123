@@ -12,14 +12,13 @@
   </a> 
 </p>
 
-- 🌱 I’m skilled at **SQL, Python, Power BI, Excel, Data Visualization, Statistics**
-
+- 🌱 I’m skilled at **SQL, Python, Tableau, Power BI, Excel, Data Visualization, Statistics**
 
 - 👯 I’m looking to collaborate on **projects related to Data Science**
 
--  🔭 I'm looking for **Data Science, Product Analytics Full Time Role**
+-  🔭 I'm looking for **Data Analytics, Business Analytics, Product Analytics Full Time Role or any other role in Analytics domain.**
 
-- 💬 Ask me about **Data Science, SQL, Python, Data Visualization,  Statistics, Power BI, MS Excel**
+- 💬 Ask me about **Data Analytics, SQL, Python, Data Visualization,  Statistics, Tableau, Power BI, MS Excel**
 
 - 📫 How to reach me **kumari.sumidha.123@gmail.com**     
 
