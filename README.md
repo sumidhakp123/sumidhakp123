@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumidha Kumari Prasad</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A potenial Data Analyst from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sumidhakp123&label=Profile%20views&color=0e75b6&style=flat" alt="sumidhakp123" /> 
@@ -12,9 +12,9 @@
   </a> 
 </p>
 
-- 🌱 I’m skilled at **SQL, Python, Tableau, Power BI, Excel, Data Visualization, Statistics**
+- 🌱 I’m skilled at **SQL, Python, Tableau, Power BI, Excel, Guesstimates,Data Visualization, Statistics**
 
-- 👯 I’m looking to collaborate on **projects related to Data Science**
+- 👯 I’m looking to collaborate on **projects related to Data Analytics**
 
 -  🔭 I'm looking for **Data Analytics, Business Analytics, Product Analytics Full Time Role or any other role in Analytics domain.**
 
