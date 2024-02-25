@@ -12,7 +12,7 @@
   </a> 
 </p>
 
-- 🌱 I’m skilled at **SQL, Python, Tableau, Power BI, Excel, Guesstimates,Data Visualization, Statistics**
+- 🌱 I’m skilled at **SQL, Python, Tableau, Power BI, Excel, Guesstimates,Data Visualization**
 
 - 👯 I’m looking to collaborate on **projects related to Data Analytics**
 
