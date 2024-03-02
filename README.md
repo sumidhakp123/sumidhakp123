@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Data Analytics, SQL, Python, Data Visualization, Tableau, Power BI, MS Excel**
 
-- 📫 How to reach me **kumari.sumidha.123@gmail.com**     
+- 📫 How to reach me **sumidha.work@gmail.com**     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
