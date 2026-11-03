@@ -1,63 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sumidha Kumari Prasad</h1>
-<h3 align="center">A Data Analyst from India</h3>
+# Hi, I'm Sumidha 👋
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sumidhakp123&label=Profile%20views&color=0e75b6&style=flat" alt="sumidhakp123" /> 
-</p>
+**Software Engineer | Exploring Generative AI**
 
+I’m an engineering professional with a background in Information Science and experience working with technology teams. I’m currently strengthening my foundations in AI and exploring how generative AI can solve practical problems.
 
-<p align="left"> 
-  <a href="https://twitter.com/sumidhakp" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sumidhakp?logo=twitter&style=for-the-badge"  alt="sumidhakp" />
-  </a> 
-</p>
+I enjoy learning by building, documenting what I discover, and connecting technical ideas to real-world use cases.
 
-- 🌱 I’m skilled at **SQL, Python, Tableau, Power BI, Excel, Guesstimates,Data Visualization**
+## What I'm focusing on
 
-- 👯 I’m looking to collaborate on **projects related to Data Analytics**
+- Generative AI fundamentals and large language models
+- Python, data analysis, and machine learning
+- Understanding neural networks, transformers, and model behavior
+- Building small projects that turn concepts into working demos
 
--  🔭 I'm looking for **Data Analytics, Full Time Role or any other role in Analytics domain.**
+## Tools & technologies
 
-- 💬 Ask me about **Data Analytics, SQL, Python, Data Visualization, Tableau, Power BI, MS Excel**
+**Languages & data:** Python · SQL · JavaScript  
+**Analytics:** Pandas · NumPy · Excel · Tableau · Power BI  
+**Currently learning:** Generative AI · LLMs · AI application development
 
-- 📫 How to reach me **sumidha.work@gmail.com**     
+## Selected projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://twitter.com/sumidhakp" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"    alt="sumidhakp" height="30" width="40" />
-</a>
-  
-<a href="https://linkedin.com/in/sumidha-kumari-prasad" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumidha-kumari-prasad" height="30" width="40" />
-</a>
-  
-<a href="https://stackoverflow.com/users/sumidhakp" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumidhakp" height="30" width="40" />
-</a>
-  
-  
-<a href="https://www.leetcode.com/sumidhakp" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"    alt="sumidhakp" height="30" width="40" />
-  </a>
-  
-  </p>
+- [Breast Cancer ML Project](https://github.com/sumidhakp123/Breast-Cancer-ML-project) — a machine-learning project exploring classification.
+- [Stock Profit/Loss](https://github.com/sumidhakp123/Stock-Profit-Loss) — a small utility for calculating stock profit and loss.
+- [Sumidha's Portfolio](https://github.com/sumidhakp123/sumidha-portfolio) — portfolio project and work samples.
 
-<h3 align="left">Languages and Tools:</h3>
+## Find me
 
-<p align="left">
+- [LinkedIn](https://www.linkedin.com/in/sumidha-kumari-prasad/)
+- [GitHub](https://github.com/sumidhakp123)
 
- <p> MS Excel, SQL, Python, Numpy, Pandas, Power BI</p>
-  
-</p>
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumidhakp123&show_icons=true&locale=en&layout=compact"          alt="sumidhakp123" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumidhakp123&show_icons=true&locale=en" alt="sumidhakp123" />
-</p>
-
+*Learning in public, one project at a time.*
