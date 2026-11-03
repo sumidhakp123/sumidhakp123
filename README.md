@@ -1,6 +1,6 @@
 # Hi, I'm Sumidha 👋
 
-**Software Engineer | Exploring Generative AI**
+**Data Analyst Engineer | Exploring Generative AI**
 
 I’m an engineering professional with a background in Information Science and experience working with technology teams. I’m currently strengthening my foundations in AI and exploring how generative AI can solve practical problems.
 
