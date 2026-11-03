@@ -21,9 +21,9 @@ I enjoy learning by building, documenting what I discover, and connecting techni
 
 ## Selected projects
 
-- [Breast Cancer ML Project](https://github.com/sumidhakp123/Breast-Cancer-ML-project) — a machine-learning project exploring classification.
-- [Stock Profit/Loss](https://github.com/sumidhakp123/Stock-Profit-Loss) — a small utility for calculating stock profit and loss.
-- [Sumidha's Portfolio](https://github.com/sumidhakp123/sumidha-portfolio) — portfolio project and work samples.
+- [E-Commerce Data Analysis](https://github.com/sumidhakp123/ECommerce-Data-Analysis) — exploring e-commerce data to identify trends and insights.
+- [Instagram Clone](https://github.com/sumidhakp123/Instagram-Clone) — a clone project inspired by Instagram.
+- [COVID-19 Data Analysis](https://github.com/sumidhakp123/Covid19-Data-Analysis) — analyzing COVID-19 data and trends.
 
 ## Find me
 
